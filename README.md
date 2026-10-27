@@ -8,8 +8,14 @@
 
 <p align="center">
   <a href="https://github.com/crzyprty?tab=repositories"><img src="https://img.shields.io/github/followers/crzyprty?label=Followers&style=flat-square&color=blue" alt="Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=crzyprty&label=Profile%20Views&style=flat-square&color=6366f1" alt="Profile Views" />
   <a href="https://github.com/crzyprty"><img src="https://img.shields.io/badge/Status-Active%20Building-success?style=flat-square" alt="Status"></a>
   <a href="https://github.com/crzyprty"><img src="https://img.shields.io/badge/Focus-AI%20%26%20Systems-orange?style=flat-square" alt="Focus"></a>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=crzyprty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="crzyprty GitHub Trophies" />
 </p>
 
 ---
@@ -73,6 +79,18 @@
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crzyprty&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crzyprty/crzyprty/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crzyprty/crzyprty/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/crzyprty/crzyprty/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
