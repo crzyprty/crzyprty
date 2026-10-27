@@ -13,11 +13,6 @@
   <a href="https://github.com/crzyprty"><img src="https://img.shields.io/badge/Focus-AI%20%26%20Systems-orange?style=flat-square" alt="Focus"></a>
 </p>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=crzyprty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="crzyprty GitHub Trophies" />
-</p>
-
 ---
 
 </div>
