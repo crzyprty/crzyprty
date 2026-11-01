@@ -27,6 +27,18 @@ I build practical software and tools for desktop workflows and AI-assisted devel
 - [**universal-ai-skills**](https://github.com/crzyprty/universal-ai-skills) — Resources and skills for AI-assisted coding workflows.
 - [**Wand-Enhancer**](https://github.com/crzyprty/Wand-Enhancer) — Desktop UX and interoperability project.
 
+## GitHub Activity & Stats
+
+<p align="center">
+  <a href="https://github.com/crzyprty?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcrzyprty&query=%24.public_repos&label=Public%20repos&style=flat-square&color=555" alt="Public repositories" /></a>
+  <a href="https://github.com/crzyprty?tab=followers"><img src="https://img.shields.io/github/followers/crzyprty?label=Followers&style=flat-square&color=555" alt="GitHub followers" /></a>
+  <a href="https://github.com/crzyprty/universal-ai-skills"><img src="https://img.shields.io/github/stars/crzyprty/universal-ai-skills?label=universal-ai-skills%20stars&style=flat-square&color=555" alt="universal-ai-skills stars" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/users/crzyprty/contributions">View my GitHub contribution activity</a>
+</p>
+
 > Volume Boss is still in development. Its repository is private and intentionally has no files yet; a public project page will be added when it is ready.
 
 ---
